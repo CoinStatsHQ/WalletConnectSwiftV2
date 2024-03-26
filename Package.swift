@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WalletConnect",
+    name: "WalletConnectSwiftV2",
     platforms: [
         .iOS(.v13),
         .macOS(.v11),
